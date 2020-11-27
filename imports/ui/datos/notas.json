@@ -1,0 +1,67 @@
+{
+  "notas": [
+    {
+      "id": 1,
+      "aula": "A",
+      "nombre": "Paco",
+      "apellido": "Pil",
+      "nota": 4
+    },
+    {
+      "id": 2,
+      "aula": "B",
+      "nombre": "Carmen",
+      "apellido": "Sevilla",
+      "nota": 7
+    },
+    {
+      "id": 3,
+      "aula": "A",
+      "nombre": "Nino",
+      "apellido": "Bravo",
+      "nota": 6.5
+    },
+    {
+      "id": 4,
+      "aula": "C",
+      "nombre": "Lola",
+      "apellido": "Flores",
+      "nota": 10
+    },
+    {
+      "id": 5,
+      "aula": "B",
+      "nombre": "Ramón",
+      "apellido": "García",
+      "nota": 2
+    },
+    {
+      "id": 6,
+      "aula": "C",
+      "nombre": "Soraya",
+      "apellido": "Sáenz",
+      "nota": 2.5
+    },
+    {
+      "id": 7,
+      "aula": "A",
+      "nombre": "Isabel",
+      "apellido": "La Católica",
+      "nota": 4
+    },
+    {
+      "id": 8,
+      "aula": "C",
+      "nombre": "Chiquito",
+      "apellido": "de la Calzada",
+      "nota": 9.5
+    },
+    {
+      "id": 9,
+      "aula": "B",
+      "nombre": "Peter",
+      "apellido": "Griffin",
+      "nota": 8.5
+    }
+  ]
+}
